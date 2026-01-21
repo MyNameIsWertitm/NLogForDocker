@@ -67,4 +67,4 @@ C:\Users\vano2\SCP\NLogTest\NLogTest\obj\Debug\net10.0\refint\NLogTest.dll
 C:\Users\vano2\SCP\NLogTest\NLogTest\obj\Debug\net10.0\NLogTest.pdb
 C:\Users\vano2\SCP\NLogTest\NLogTest\obj\Debug\net10.0\NLogTest.genruntimeconfig.cache
 C:\Users\vano2\SCP\NLogTest\NLogTest\obj\Debug\net10.0\ref\NLogTest.dll
-C:\Users\vano2\SCP\NLogTest\NLogTest\bin\Debug\net10.0\NLog.config
+C:\Users\vano2\SCP\NLogTest\NLogTest\obj\Debug\net10.0\NLogTest.sourcelink.json

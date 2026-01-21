@@ -46,7 +46,7 @@ namespace NLogTest
 
                     Name = "Database",
 
-                    ConnectionString = "Server=WERTI;Database=testik;Trusted_Connection=True;TrustServerCertificate=True;",
+                    ConnectionString = "Server=localhost;Database=testik;Trusted_Connection=True;TrustServerCertificate=True;",
 
                     CommandText = "INSERT INTO [dbo].[TEST_LOG_TABLE] ( [LOG_MESSAGE] )" +
                                    "VALUES (@LOG_MESSAGE);"

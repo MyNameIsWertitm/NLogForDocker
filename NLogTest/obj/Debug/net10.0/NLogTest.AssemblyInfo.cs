@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NLogTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e9dab0c0c15e400e0eb754ea4652b13d09d232")]
 [assembly: System.Reflection.AssemblyProductAttribute("NLogTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NLogTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

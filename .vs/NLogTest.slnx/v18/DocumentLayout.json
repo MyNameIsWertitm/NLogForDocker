@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vano2\\SCP\\NLogTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{715FA05A-2B34-4ED6-808B-3807FC82986E}|NLogTest\\NLogTest.csproj|c:\\users\\vano2\\scp\\nlogtest\\nlogtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{715FA05A-2B34-4ED6-808B-3807FC82986E}|NLogTest\\NLogTest.csproj|solutionrelative:nlogtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CEFA61E-916C-C1DE-87D4-6E005751D74D}|NLogTest\\NLogTest.csproj|c:\\users\\vano2\\scp\\nlogtest\\nlogtest\\inlogconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEFA61E-916C-C1DE-87D4-6E005751D74D}|NLogTest\\NLogTest.csproj|solutionrelative:nlogtest\\inlogconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{715FA05A-2B34-4ED6-808B-3807FC82986E}|NLogTest\\NLogTest.csproj|c:\\users\\vano2\\scp\\nlogtest\\nlogtest\\inlogconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{715FA05A-2B34-4ED6-808B-3807FC82986E}|NLogTest\\NLogTest.csproj|solutionrelative:nlogtest\\inlogconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CEFA61E-916C-C1DE-87D4-6E005751D74D}|NLogTest\\NLogTest.csproj|c:\\users\\vano2\\scp\\nlogtest\\nlogtest\\nlogtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CEFA61E-916C-C1DE-87D4-6E005751D74D}|NLogTest\\NLogTest.csproj|solutionrelative:nlogtest\\nlogtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{715FA05A-2B34-4ED6-808B-3807FC82986E}|NLogTest\\NLogTest.csproj|c:\\users\\vano2\\scp\\nlogtest\\nlogtest\\nlogtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{715FA05A-2B34-4ED6-808B-3807FC82986E}|NLogTest\\NLogTest.csproj|solutionrelative:nlogtest\\nlogtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6CEFA61E-916C-C1DE-87D4-6E005751D74D}|NLogTest\\NLogTest.csproj|c:\\users\\vano2\\scp\\nlogtest\\nlogtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEFA61E-916C-C1DE-87D4-6E005751D74D}|NLogTest\\NLogTest.csproj|solutionrelative:nlogtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,12 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NLogTest",
+              "DocumentIndex": 1,
+              "Title": "NLogTest.csproj",
               "DocumentMoniker": "C:\\Users\\vano2\\SCP\\NLogTest\\NLogTest\\NLogTest.csproj",
               "RelativeDocumentMoniker": "NLogTest\\NLogTest.csproj",
               "ToolTip": "C:\\Users\\vano2\\SCP\\NLogTest\\NLogTest\\NLogTest.csproj",
@@ -39,26 +39,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "INLogConfig.cs",
               "DocumentMoniker": "C:\\Users\\vano2\\SCP\\NLogTest\\NLogTest\\INLogConfig.cs",
               "RelativeDocumentMoniker": "NLogTest\\INLogConfig.cs",
               "ToolTip": "C:\\Users\\vano2\\SCP\\NLogTest\\NLogTest\\INLogConfig.cs",
               "RelativeToolTip": "NLogTest\\INLogConfig.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T12:30:04.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vano2\\SCP\\NLogTest\\NLogTest\\Program.cs",
               "RelativeDocumentMoniker": "NLogTest\\Program.cs",
               "ToolTip": "C:\\Users\\vano2\\SCP\\NLogTest\\NLogTest\\Program.cs",
               "RelativeToolTip": "NLogTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T12:28:43.943Z",
               "EditorCaption": ""
